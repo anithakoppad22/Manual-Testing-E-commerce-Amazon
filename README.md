@@ -56,6 +56,4 @@ The objective is to understand requirements, design test scenarios and test case
 - Regression Testing
 - Re-testing
 
----
 
-## 📁 Project Structure
