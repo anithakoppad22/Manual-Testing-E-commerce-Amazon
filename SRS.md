@@ -37,6 +37,8 @@ products online through a secure and user-friendly interface.
 | Guest User | Can browse and search products |
 | Registered User | Can place orders and make payments |
 | Admin | Manages products and orders (out of testing scope) |
+
+
 =======
 1.2 Scope
 The application allows users to:
