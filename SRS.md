@@ -141,10 +141,6 @@ products online through a secure and user-friendly interface.
 This SRS document serves as the baseline for manual testing activities,
 including test scenario creation, test case execution, and defect reporting
 for the Amazon e-commerce web application.
-=======
 
 
 
-7. Conclusion
-This SRS document serves as the baseline for manual testing activities including test scenario creation, test case execution, and defect reporting for the Amazon E-commerce web application.
->>>>>>> d6a796e42cc7ecc74234ab59c775b049587c348e
