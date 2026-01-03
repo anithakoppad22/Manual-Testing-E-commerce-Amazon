@@ -1,4 +1,4 @@
-Git & Git Bash Commands You’ve Learned
+Git & Git Bash Commands 
 1️⃣ Check which branch you’re on
 git branch
 •	Shows your current local branch
